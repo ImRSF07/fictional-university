@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: First Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-04 05:47+0000\n"
+"PO-Revision-Date: 2024-01-04 05:57+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tagalog\n"
+"Language: tl\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: wcpdomain"
+
+#. Name of the plugin
+msgid "First Plugin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/Roswaldo"
+msgstr ""
+
+#. Author of the plugin
+msgid "Roswaldo"
+msgstr ""
+
+#. Description of the plugin
+msgid "This is my first plugin"
+msgstr ""
+
+#: first-plugin.php:45 first-plugin.php:49
+msgid "This post has"
+msgstr "Ang post na ito ay may"
+
+#: first-plugin.php:114
+msgid "Word Count"
+msgstr "Bilang ng salita"
+
+#: first-plugin.php:45
+msgid "words."
+msgstr "salita"
