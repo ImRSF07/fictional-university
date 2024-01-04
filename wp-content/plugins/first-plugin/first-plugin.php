@@ -7,7 +7,7 @@
     Author: Roswaldo
     Author URI: https://github.com/Roswaldo
     Text Domain: wcpdomain
-    Domain Path: /languages
+    Domain Path: /languages 
 */
 
 class WordCountAndTimePlugin
