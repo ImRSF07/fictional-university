@@ -5,7 +5,7 @@
     Description: This is my first plugin
     Version: 1.0.0
     Author: Roswaldo
-    Author URI: https://github.com/Roswaldo
+    Author URI: https://github.com/ImRSF07
     Text Domain: wcpdomain
     Domain Path: /languages 
 */
