@@ -1,0 +1,9 @@
+Jan 08 2024 06:18:31
+{"Number":8,"Message":"fwrite(): Write of 229614 bytes failed with errno=28 No space left on device","File":"C:\\Users\\HOPLA.online\\Local Sites\\fictional-university\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-compressor.php","Line":102}
+
+Jan 08 2024 06:20:57
+{"Number":8,"Message":"fwrite(): Write of 11798 bytes failed with errno=28 No space left on device","File":"C:\\Users\\HOPLA.online\\Local Sites\\fictional-university\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-compressor.php","Line":102}
+
+Jan 08 2024 06:33:40
+{"Number":2,"Message":"rmdir(C:\\Users\\HOPLA.online\\Local Sites\\fictional-university\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\hl1w7osjxccm): Directory not empty","File":"C:\\Users\\HOPLA.online\\Local Sites\\fictional-university\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
